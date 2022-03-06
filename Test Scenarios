@@ -1,0 +1,17 @@
+Test Scenarios covered by automation :
+
+In login-logout spec file, the test scenarios covered are:
+
+1. Login to application successfully, validate the user name displayed 
+    and print the user to console
+
+2. Logout from application and 
+    to validate if Signin title is displayed or not after successful logout 
+
+In homepage-validation spec file, the scenarios covered are:
+
+1. Login to application, search for a product and 
+   select the quantity from dropdown and add item to cart.
+   After adding item to cart successfully, also validating if added item and quantity are present in the cart.
+
+2. Removing an item from cart and validating if item is removed from the cart.

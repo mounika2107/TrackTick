@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="124.0500" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-03-06T14:00:12" tests="0" file="cypress/integration/homepage-validation.spec.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Add to Cart" timestamp="2022-03-06T14:00:12" tests="1" time="67.2890" failures="0">
+    <testcase name="Add to Cart Search Products and add to cart" time="59.7200" classname="Search Products and add to cart">
+    </testcase>
+  </testsuite>
+  <testsuite name="Remove from Cart" timestamp="2022-03-06T14:01:19" tests="1" time="56.7340" failures="0">
+    <testcase name="Remove from Cart Remove items from cart" time="52.3770" classname="Remove items from cart">
+    </testcase>
+  </testsuite>
+</testsuites>
